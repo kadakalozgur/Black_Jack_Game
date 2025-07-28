@@ -1,4 +1,4 @@
-# 🎲 Basit Kart Oyunu | Simple Card Game 🎮  
+# 🃏 Basit Kart Oyunu | Simple Card Game 🎮  
 
 ### - Developed by Özgür Kadakal
 
