@@ -8,11 +8,25 @@
 
 ---
 
-## 🖼️ Oyun Görüntüleri (Gameplay Previews)
+## 🖼️ Gameplay Previews
 
-### 🎮 Oyun Ekranı  
-![GameScreen](path/to/screenshot1.png)  
-*Buraya projenin ana ekran görüntüsünü ekleyebilirsiniz.*
+### 🎮 In-Game Screenshot 1
+![GameScreen1](BlackJackGame/ScreenShots/menu.png)  
+
+### 🎮 In-Game Screenshot 2
+![GameScreen2](BlackJackGame/ScreenShots/settings.png)  
+
+### 🎮 In-Game Screenshot 3
+![GameScreen3](BlackJackGame/ScreenShots/blackjack.png)  
+
+### 🎮 In-Game Screenshot 4
+![GameScreen4](BlackJackGame/ScreenShots/youwin.png)  
+
+### 🎮 In-Game Screenshot 5
+![GameScreen4](BlackJackGame/ScreenShots/youlose.png)  
+
+### 🎮 In-Game Screenshot 6
+![GameScreen4](BlackJackGame/ScreenShots/tie.png)  
 
 ---
 
